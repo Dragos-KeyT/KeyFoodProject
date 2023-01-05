@@ -10,11 +10,12 @@
     	<parameter name="url" value="https://keyfood.ro" />
         
         <classes>
-            <class name="tests.LoginTest" ></class>
+            <class name="tests.CannotPostOrderWithoutBillingAdressTest" ></class>
         </classes>
         
     </test>  
-        <test name="Firefox" >
+    
+     <test name="Firefox" >
     	<parameter name="user" value="customer" />
     	<parameter name="pass" value="customer@123" />
     	<parameter name="invalidUser" value="invalidUser" />

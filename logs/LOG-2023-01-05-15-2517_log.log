@@ -1,0 +1,33 @@
+15:25:17.527 [TestNG-tests-2] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: My account
+15:25:17.808 [TestNG-tests-2] INFO  utils.Log - called method <Click()> on element :null
+15:25:18.271 [TestNG-tests-2] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: username
+15:25:24.221 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: My account
+15:25:36.351 [TestNG-tests-2] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: My account
+15:25:36.397 [TestNG-tests-1] INFO  utils.Log - called method <Click()> on element :null
+15:25:37.918 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: username
+15:25:37.982 [TestNG-tests-1] INFO  utils.Log - called clear on method <sendkeys> on element null
+15:25:38.026 [TestNG-tests-1] INFO  utils.Log - called sendkeys on method <sendkeys> on element null
+15:25:38.300 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: password
+15:25:38.358 [TestNG-tests-1] INFO  utils.Log - called clear on method <sendkeys> on element null
+15:25:38.393 [TestNG-tests-1] INFO  utils.Log - called sendkeys on method <sendkeys> on element null
+15:25:38.496 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.cssSelector: button[name='login']
+15:25:38.588 [TestNG-tests-2] INFO  utils.Log - called method <Click()> on element :null
+15:25:38.595 [TestNG-tests-1] INFO  utils.Log - called method <Click()> on element :null
+15:25:39.627 [TestNG-tests-2] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: username
+15:25:40.032 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: My account
+15:25:40.045 [TestNG-tests-2] INFO  utils.Log - called clear on method <sendkeys> on element null
+15:25:40.114 [TestNG-tests-2] INFO  utils.Log - called sendkeys on method <sendkeys> on element null
+15:25:40.169 [TestNG-tests-2] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: password
+15:25:40.176 [TestNG-tests-1] INFO  utils.Log - called method <Click()> on element :null
+15:25:40.913 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: username
+15:25:40.970 [TestNG-tests-1] INFO  utils.Log - called clear on method <sendkeys> on element null
+15:25:41.236 [TestNG-tests-1] INFO  utils.Log - called sendkeys on method <sendkeys> on element null
+15:25:41.287 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: password
+15:25:41.334 [TestNG-tests-1] INFO  utils.Log - called clear on method <sendkeys> on element null
+15:25:41.368 [TestNG-tests-1] INFO  utils.Log - called sendkeys on method <sendkeys> on element null
+15:25:41.403 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.cssSelector: button[name='login']
+15:25:41.465 [TestNG-tests-1] INFO  utils.Log - called method <Click()> on element :null
+15:25:42.194 [TestNG-tests-2] INFO  utils.Log - called clear on method <sendkeys> on element null
+15:25:42.235 [TestNG-tests-2] INFO  utils.Log - called sendkeys on method <sendkeys> on element null
+15:25:42.271 [TestNG-tests-2] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.cssSelector: button[name='login']
+15:25:42.320 [TestNG-tests-2] INFO  utils.Log - called method <Click()> on element :null

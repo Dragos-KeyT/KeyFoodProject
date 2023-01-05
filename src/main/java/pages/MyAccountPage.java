@@ -7,10 +7,11 @@ import utils.SeleniumWrappers;
 
 public class MyAccountPage extends SeleniumWrappers{
 
-	public WebDriver driver;
+	//public WebDriver driver;
 	
 	public MyAccountPage(WebDriver driver) {
-		this.driver = driver;
+		//this.driver = driver;
+		super(driver);
 	}
 	
 	public By usernameField = By.id("username");

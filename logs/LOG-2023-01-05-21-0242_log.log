@@ -1,0 +1,16 @@
+21:02:42.811 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: dgwt-wcas-search-input-1
+21:02:45.109 [main] INFO  utils.Log - called clear on method <sendkeys> on element <input id="dgwt-wcas-search-input-1" type="search" class="dgwt-wcas-search-input" name="s" value="" placeholder="Search for products..." autocomplete="off">
+21:02:45.197 [main] INFO  utils.Log - called sendkeys on method <sendkeys> on element <input id="dgwt-wcas-search-input-1" type="search" class="dgwt-wcas-search-input" name="s" value="" placeholder="Search for products..." autocomplete="off">
+21:02:45.770 [main] INFO  utils.Log - calling method <sendEnter>
+21:02:48.027 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: (//i[@class='klbth-icon-plus'])[1]
+21:02:48.247 [main] INFO  utils.Log - called method <Click()> on element :<i class="klbth-icon-plus"></i>
+21:02:50.041 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: (//i[@class='klbth-icon-plus'])[1]
+21:02:50.153 [main] INFO  utils.Log - called method <Click()> on element :<i class="klbth-icon-plus"></i>
+21:02:50.190 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: (//i[@class='klbth-icon-plus'])[1]
+21:02:50.250 [main] INFO  utils.Log - called method <Click()> on element :<i class="klbth-icon-plus"></i>
+21:02:50.279 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: (//i[@class='klbth-icon-plus'])[1]
+21:02:50.335 [main] INFO  utils.Log - called method <Click()> on element :<i class="klbth-icon-plus"></i>
+21:02:50.371 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.cssSelector: button[name='add-to-cart']
+21:02:50.746 [main] INFO  utils.Log - called method <Click()> on element :<button type="submit" name="add-to-cart" value="312" class="single_add_to_cart_button button alt">Add to cart</button>
+21:02:51.882 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: CART
+21:02:52.350 [main] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/cart-2/">Cart</a>

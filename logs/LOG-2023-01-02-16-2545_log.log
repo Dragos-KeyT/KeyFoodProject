@@ -1,0 +1,22 @@
+16:25:45.902 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: My account
+16:25:48.326 [main] INFO  utils.Log - called method <Click()> on element :null
+16:25:51.376 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: username
+16:25:51.458 [main] INFO  utils.Log - called clear on method <sendkeys> on element null
+16:25:51.589 [main] INFO  utils.Log - called sendkeys on method <sendkeys> on element null
+16:25:51.876 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: password
+16:25:51.966 [main] INFO  utils.Log - called clear on method <sendkeys> on element null
+16:25:52.008 [main] INFO  utils.Log - called sendkeys on method <sendkeys> on element null
+16:25:52.597 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.cssSelector: button[name='login']
+16:25:52.670 [main] INFO  utils.Log - called method <Click()> on element :null
+16:25:54.397 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: Log out
+16:25:54.665 [main] INFO  utils.Log - called method <Click()> on element :null
+16:25:56.037 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: My account
+16:25:56.532 [main] INFO  utils.Log - called method <Click()> on element :null
+16:25:57.228 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: username
+16:25:57.280 [main] INFO  utils.Log - called clear on method <sendkeys> on element null
+16:25:57.328 [main] INFO  utils.Log - called sendkeys on method <sendkeys> on element null
+16:25:57.374 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: password
+16:25:57.443 [main] INFO  utils.Log - called clear on method <sendkeys> on element null
+16:25:57.487 [main] INFO  utils.Log - called sendkeys on method <sendkeys> on element null
+16:25:57.523 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.cssSelector: button[name='login']
+16:25:57.602 [main] INFO  utils.Log - called method <Click()> on element :null

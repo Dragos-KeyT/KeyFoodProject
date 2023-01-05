@@ -1,0 +1,4 @@
+15:31:56.699 [TestNG-tests-2] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: My account
+15:31:56.925 [TestNG-tests-2] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: My account
+15:32:03.732 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: My account
+15:32:05.468 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: My account

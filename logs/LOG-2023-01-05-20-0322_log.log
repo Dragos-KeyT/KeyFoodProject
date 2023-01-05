@@ -1,0 +1,4 @@
+20:03:22.088 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: dgwt-wcas-search-input-1
+20:03:24.158 [main] INFO  utils.Log - called clear on method <sendkeys> on element <input id="dgwt-wcas-search-input-1" type="search" class="dgwt-wcas-search-input" name="s" value="" placeholder="Search for products..." autocomplete="off">
+20:03:24.247 [main] INFO  utils.Log - called sendkeys on method <sendkeys> on element <input id="dgwt-wcas-search-input-1" type="search" class="dgwt-wcas-search-input" name="s" value="" placeholder="Search for products..." autocomplete="off">
+20:03:24.778 [main] INFO  utils.Log - calling method <sendEnter>

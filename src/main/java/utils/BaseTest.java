@@ -25,6 +25,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class BaseTest extends Driver {
 
 	public WebDriver driver;
+	public BasePage app;
 
 	@Parameters({"browser", "url"})
 	@BeforeClass(alwaysRun=true)
@@ -33,6 +34,7 @@ public class BaseTest extends Driver {
 		driver = initDriver(browser);
 		driver.get(url);
 		
+		app = new BasePage(driver);
 
 	}
 

@@ -1,0 +1,44 @@
+19:31:15.696 [TestNG-tests-2] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: My account
+19:31:15.949 [TestNG-tests-2] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/my-account-2/">My account</a>
+19:31:16.459 [TestNG-tests-2] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: username
+19:31:16.541 [TestNG-tests-2] INFO  utils.Log - called clear on method <sendkeys> on element <input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" autocomplete="username" value="">
+19:31:16.573 [TestNG-tests-2] INFO  utils.Log - called sendkeys on method <sendkeys> on element <input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" autocomplete="username" value="" style="">
+19:31:16.604 [TestNG-tests-2] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: password
+19:31:16.660 [TestNG-tests-2] INFO  utils.Log - called clear on method <sendkeys> on element <input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" autocomplete="current-password">
+19:31:16.680 [TestNG-tests-2] INFO  utils.Log - called sendkeys on method <sendkeys> on element <input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" autocomplete="current-password" style="">
+19:31:16.716 [TestNG-tests-2] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.cssSelector: button[name='login']
+19:31:16.774 [TestNG-tests-2] INFO  utils.Log - called method <Click()> on element :<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Log in">Log in</button>
+19:31:17.563 [TestNG-tests-2] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: Log out
+19:31:17.756 [TestNG-tests-2] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/my-account-2/customer-logout/?_wpnonce=486fc1485e">Log out</a>
+19:31:18.818 [TestNG-tests-2] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: My account
+19:31:18.985 [TestNG-tests-2] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/my-account-2/" aria-current="page">My account</a>
+19:31:19.545 [TestNG-tests-2] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: username
+19:31:19.649 [TestNG-tests-2] INFO  utils.Log - called clear on method <sendkeys> on element <input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" autocomplete="username" value="">
+19:31:19.687 [TestNG-tests-2] INFO  utils.Log - called sendkeys on method <sendkeys> on element <input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" autocomplete="username" value="" style="">
+19:31:19.717 [TestNG-tests-2] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: password
+19:31:19.809 [TestNG-tests-2] INFO  utils.Log - called clear on method <sendkeys> on element <input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" autocomplete="current-password">
+19:31:19.851 [TestNG-tests-2] INFO  utils.Log - called sendkeys on method <sendkeys> on element <input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" autocomplete="current-password" style="">
+19:31:19.878 [TestNG-tests-2] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.cssSelector: button[name='login']
+19:31:20.000 [TestNG-tests-2] INFO  utils.Log - called method <Click()> on element :<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Log in">Log in</button>
+19:31:23.194 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: My account
+19:31:25.652 [TestNG-tests-1] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/my-account-2/">My account</a>
+19:31:27.658 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: username
+19:31:27.724 [TestNG-tests-1] INFO  utils.Log - called clear on method <sendkeys> on element <input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" autocomplete="username" value="">
+19:31:27.795 [TestNG-tests-1] INFO  utils.Log - called sendkeys on method <sendkeys> on element <input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" autocomplete="username" value="">
+19:31:27.991 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: password
+19:31:28.064 [TestNG-tests-1] INFO  utils.Log - called clear on method <sendkeys> on element <input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" autocomplete="current-password">
+19:31:28.112 [TestNG-tests-1] INFO  utils.Log - called sendkeys on method <sendkeys> on element <input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" autocomplete="current-password">
+19:31:28.188 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.cssSelector: button[name='login']
+19:31:28.248 [TestNG-tests-1] INFO  utils.Log - called method <Click()> on element :<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Log in">Log in</button>
+19:31:30.262 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: Log out
+19:31:30.511 [TestNG-tests-1] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/my-account-2/customer-logout/?_wpnonce=b73581f37b">Log out</a>
+19:31:31.507 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: My account
+19:31:31.598 [TestNG-tests-1] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/my-account-2/" aria-current="page">My account</a>
+19:31:32.134 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: username
+19:31:32.184 [TestNG-tests-1] INFO  utils.Log - called clear on method <sendkeys> on element <input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" autocomplete="username" value="">
+19:31:32.217 [TestNG-tests-1] INFO  utils.Log - called sendkeys on method <sendkeys> on element <input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" autocomplete="username" value="">
+19:31:32.251 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: password
+19:31:32.301 [TestNG-tests-1] INFO  utils.Log - called clear on method <sendkeys> on element <input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" autocomplete="current-password">
+19:31:32.346 [TestNG-tests-1] INFO  utils.Log - called sendkeys on method <sendkeys> on element <input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" autocomplete="current-password">
+19:31:32.398 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.cssSelector: button[name='login']
+19:31:32.462 [TestNG-tests-1] INFO  utils.Log - called method <Click()> on element :<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Log in">Log in</button>
